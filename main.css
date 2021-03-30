@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: rgba(241, 241, 241, 0.911);
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+  
+}
+
+.symbols{
+    display: inline-block;
+    margin-left: 300px;
+    
+
+}
+
+header p{
+    display: inline-block;
+    margin-left: 500px;
+}
+
+header input{
+    display: inline-block;
+    margin-left: 300px;
+    text-align: center;
+}
